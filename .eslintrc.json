@@ -25,6 +25,7 @@
         "@typescript-eslint"
     ],
     "rules": {
+      "react/jsx-curly-newline": "off",
       "no-unused-expressions": "off",
       "operator-linebreak": "off",
       "implicit-arrow-linebreak": "off",
